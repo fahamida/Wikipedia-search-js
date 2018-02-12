@@ -1,0 +1,54 @@
+body{
+  background-image: url("https://images.pexels.com/photos/262488/pexels-photo-262488.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1{
+  font-family: Lobster;
+  font-size: 80px;
+  margin-top:25px;;
+  margin-bottom:25px;
+  color:#191970;
+}
+
+button{
+  margin:1%;
+  margin-bottom:1%;
+}
+.a1{
+ font-size: 12px;
+}
+
+a{
+  margin:0;
+ padding-top:5%;
+ padding-bottom:5%;
+ color:blue;
+}
+.input1{
+  font-size:15px;
+}
+.btn{
+  font-size:16px;
+  margin-bottom:20px;
+}
+.b1{
+  margin-top:20px;
+  margin-bottom:20px;
+  margin-left:auto;
+  margin-right:auto;  
+}
+
+.output1{
+    width:auto;
+    height:auto;
+    background-color: white;
+    box-shadow: 10px 10px 5px #888888; 
+    border-radius:1em;
+    padding:2rem;
+    margin:1rem;
+    font-size:15px;
+}
